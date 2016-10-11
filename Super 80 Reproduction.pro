@@ -1,4 +1,4 @@
-update=17/08/2015 14:15:55
+update=11/10/2016 22:51:58
 last_client=eeschema
 [pcbnew]
 version=1
@@ -85,3 +85,4 @@ LibName28=opto
 LibName29=atmel
 LibName30=contrib
 LibName31=valves
+LibName32=C:/Users/Malcolm/OneDrive/KiCAD/library/mals_library
